@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin:0;
+}
+/* Main css */
+body{
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+}
+
+.main{
+    display: flex;
+    flex-direction: row;
+}
+/* History show part Left */
+.result-area{
+    width: 40%;
+    height: 100%;
+    padding:50px
+}
+
+/* Left area end */
+
+/* Calculator right side */
+.calc-main{
+    width: 60%;
+    height: 100%;
+    padding: 50px;
+}
+
+/* Calculator first section */
+.input-area{
+        width: 100%;
+        height: 20%;
+} 
+
+/* Calculator second section */
+.calc-area{
+    display: grid;
+}
+
+
+
+/* right */
+
